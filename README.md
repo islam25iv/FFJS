@@ -1,2 +1,0 @@
-# FFJS
-Family Farm JS
