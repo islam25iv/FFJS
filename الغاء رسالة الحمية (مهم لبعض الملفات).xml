@@ -3,7 +3,7 @@
 <rewriteSet-array>
   <rewriteSet>
     <active>true</active>
-    <name>errorr stope </name>
+    <name>تعطيل الحماية</name>
     <hosts>
       <locationPatterns>
         <locationMatch>
