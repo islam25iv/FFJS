@@ -3,7 +3,7 @@
 // @namespace    https://github.com/ELJoOker2004
 // @version      1.0
 // @description  princess add 3
-// @author       ELJoOker
+// @author       ELJoOker ⭐
 // @match        *://farm-us.centurygames.com/*
 // @match        *://farm.centurygames.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=centurygames.com
