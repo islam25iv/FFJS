@@ -84,7 +84,7 @@
         <matchValueRegex>false</matchValueRegex>
         <matchRequest>true</matchRequest>
         <matchResponse>false</matchResponse>
-        <newValue>ooooo_oo_oooo</newValue>
+        <newValue>ooooo_oo_ooooo</newValue>
         <newHeaderRegex>false</newHeaderRegex>
         <newValueRegex>false</newValueRegex>
         <matchWholeValue>false</matchWholeValue>
@@ -99,7 +99,7 @@
         <matchValueRegex>false</matchValueRegex>
         <matchRequest>true</matchRequest>
         <matchResponse>false</matchResponse>
-        <newValue>trooo_ooo</newValue>
+        <newValue>ooooo_oooo</newValue>
         <newHeaderRegex>false</newHeaderRegex>
         <newValueRegex>false</newValueRegex>
         <matchWholeValue>false</matchWholeValue>
@@ -114,7 +114,7 @@
         <matchValueRegex>false</matchValueRegex>
         <matchRequest>true</matchRequest>
         <matchResponse>false</matchResponse>
-        <newValue>ooo_ooo</newValue>
+        <newValue>ooo_oooo</newValue>
         <newHeaderRegex>false</newHeaderRegex>
         <newValueRegex>false</newValueRegex>
         <matchWholeValue>false</matchWholeValue>
