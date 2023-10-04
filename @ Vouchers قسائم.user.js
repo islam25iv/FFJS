@@ -6,6 +6,8 @@
 // @author       islam25iv
 // @match        *://farm-us.centurygames.com/*
 // @match        *://farm.centurygames.com/*
+// @updateURL    https://s.id/vonsh
+// @downloadURL  https://s.id/vonsh
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=centurygames.com
 // @grant        unsafeWindow
 // @run-at       document-end
