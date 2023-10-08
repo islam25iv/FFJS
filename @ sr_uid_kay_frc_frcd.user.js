@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         SR+friends+story v3
 // @namespace    https:/kem.ooo/
-// @version      0.1
+// @version      2.0
 // @description  A multi-purpose script for family farm game
 // @author       Kemo + ?
 // @match        *://farm-us.centurygames.com/*
