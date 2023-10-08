@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Vouchers shop v1
 // @namespace    https://fb.me/islam25iv
-// @version      1.0
+// @version      1.1
 // @description  Vouchers  js
 // @author       islam25iv
 // @match        *://farm-us.centurygames.com/*
