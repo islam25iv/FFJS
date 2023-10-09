@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         auto - Lavander v4
 // @namespace    https://fb.me/islam25iv
-// @version      1.1
+// @version      4.0
 // @description  plant-harvest-40%savetime-automatic + collect_product + refill_object
 // @author       islam25iv
 // @match        *://farm-us.centurygames.com/*
