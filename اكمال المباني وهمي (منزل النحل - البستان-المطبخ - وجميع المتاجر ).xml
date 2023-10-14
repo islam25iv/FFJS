@@ -3,7 +3,7 @@
 <rewriteSet-array>
   <rewriteSet>
     <active>true</active>
-    <name>اكمال الالة وهمي</name>
+    <name>اكمال الالات وهمي</name>
     <hosts>
       <locationPatterns>
         <locationMatch>
@@ -34,7 +34,7 @@
       <rewriteRule>
         <active>true</active>
         <ruleType>7</ruleType>
-        <matchValue>افصل المف لم تحتاج تكمل الة </matchValue>
+        <matchValue>  افصل المف لم تحتاج تكمل الة / او / تفتح النادي  </matchValue>
         <matchHeaderRegex>false</matchHeaderRegex>
         <matchValueRegex>false</matchValueRegex>
         <matchRequest>true</matchRequest>
@@ -49,7 +49,7 @@
       <rewriteRule>
         <active>true</active>
         <ruleType>7</ruleType>
-        <matchValue>المف وهمي يستخدم فحصاد ورص الاشجار </matchValue>
+        <matchValue> المف وهمي يستخدم فحصاد ورص الاشجار </matchValue>
         <matchHeaderRegex>false</matchHeaderRegex>
         <matchValueRegex>false</matchValueRegex>
         <matchRequest>true</matchRequest>
