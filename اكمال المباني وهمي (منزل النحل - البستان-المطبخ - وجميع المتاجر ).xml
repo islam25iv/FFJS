@@ -34,7 +34,7 @@
       <rewriteRule>
         <active>true</active>
         <ruleType>7</ruleType>
-        <matchValue>  افصل المف لم تحتاج تكمل الة / او / تفتح النادي  </matchValue>
+        <matchValue>افصل المف لم تحتاج تكمل الة / او / تفتح النادي  </matchValue>
         <matchHeaderRegex>false</matchHeaderRegex>
         <matchValueRegex>false</matchValueRegex>
         <matchRequest>true</matchRequest>
@@ -49,7 +49,7 @@
       <rewriteRule>
         <active>true</active>
         <ruleType>7</ruleType>
-        <matchValue> المف وهمي يستخدم فحصاد ورص الاشجار </matchValue>
+        <matchValue>المف وهمي يستخدم فحصاد ورص الاشجار </matchValue>
         <matchHeaderRegex>false</matchHeaderRegex>
         <matchValueRegex>false</matchValueRegex>
         <matchRequest>true</matchRequest>
@@ -70,6 +70,36 @@
         <matchRequest>true</matchRequest>
         <matchResponse>false</matchResponse>
         <newValue></newValue>
+        <newHeaderRegex>false</newHeaderRegex>
+        <newValueRegex>false</newValueRegex>
+        <matchWholeValue>false</matchWholeValue>
+        <caseSensitive>false</caseSensitive>
+        <replaceType>2</replaceType>
+      </rewriteRule>
+      <rewriteRule>
+        <active>true</active>
+        <ruleType>7</ruleType>
+        <matchValue>203592</matchValue>
+        <matchHeaderRegex>false</matchHeaderRegex>
+        <matchValueRegex>false</matchValueRegex>
+        <matchRequest>false</matchRequest>
+        <matchResponse>true</matchResponse>
+        <newValue>216115</newValue>
+        <newHeaderRegex>false</newHeaderRegex>
+        <newValueRegex>false</newValueRegex>
+        <matchWholeValue>false</matchWholeValue>
+        <caseSensitive>false</caseSensitive>
+        <replaceType>2</replaceType>
+      </rewriteRule>
+      <rewriteRule>
+        <active>false</active>
+        <ruleType>7</ruleType>
+        <matchValue>65020</matchValue>
+        <matchHeaderRegex>false</matchHeaderRegex>
+        <matchValueRegex>false</matchValueRegex>
+        <matchRequest>false</matchRequest>
+        <matchResponse>true</matchResponse>
+        <newValue>204981</newValue>
         <newHeaderRegex>false</newHeaderRegex>
         <newValueRegex>false</newValueRegex>
         <matchWholeValue>false</matchWholeValue>
