@@ -6,8 +6,8 @@
 // @author       islam25iv
 // @match        *://farm-us.centurygames.com/*
 // @match        *://farm.centurygames.com/*
-// @updateURL    https://s.id/outoo_pro
-// @downloadURL  https://s.id/outoo_pro
+// @updateURL    https://s.id/auto_pro
+// @downloadURL  https://s.id/auto_pro
 // @grant        GM_getValue
 // @grant        GM_setValue
 // @grant        GM_openInTab
