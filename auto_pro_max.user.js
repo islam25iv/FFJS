@@ -13,6 +13,16 @@
 // @grant        GM_openInTab
 // @grant        GM_notification
 // @grant        GM_xmlhttpRequest
+// @compatible          chrome
+// @compatible          firefox
+// @compatible          edge
+// @compatible          opera
+// @compatible          brave
+// @compatible          vivaldi
+// @compatible          waterfox
+// @compatible          librewolf
+// @compatible          ghost
+// @compatible          qq
 // @icon         https://gitfront.io/r/islam25iv/qSW56JeB9pKr/FFJS/raw/hv.gif
 // @grant        unsafeWindow
 // @run-at       document-end
