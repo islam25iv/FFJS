@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Harvester auto_pro_max v1
+// @name         Auto_Pro v1
 // @namespace    https://fb.me/islam25iv
 // @version      1.0
-// @description  plant-harvest-40%savetime-automatic + collect_product + refill_object
+// @description  🎁
 // @author       islam25iv
 // @match        *://farm-us.centurygames.com/*
 // @match        *://farm.centurygames.com/*
@@ -15,6 +15,9 @@
 // @grant        GM_xmlhttpRequest
 // @compatible          chrome
 // @compatible          firefox
+// @compatible          edge
+// @compatible          opera
+// @compatible          brave
 // @icon         https://gitfront.io/r/islam25iv/qSW56JeB9pKr/FFJS/raw/hv.gif
 // @grant        unsafeWindow
 // @run-at       document-end
