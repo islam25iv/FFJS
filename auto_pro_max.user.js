@@ -16,8 +16,6 @@
 // @compatible          chrome
 // @compatible          firefox
 // @compatible          edge
-// @compatible          opera
-// @compatible          brave
 // @icon         https://gitfront.io/r/islam25iv/qSW56JeB9pKr/FFJS/raw/hv.gif
 // @grant        unsafeWindow
 // @run-at       document-end
