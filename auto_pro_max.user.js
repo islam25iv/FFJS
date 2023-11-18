@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Auto_Pro v 1.2
+// @name         Auto_Pro
 // @namespace    https://fb.me/islam25iv
 // @version      1.2
 // @description  🎁
