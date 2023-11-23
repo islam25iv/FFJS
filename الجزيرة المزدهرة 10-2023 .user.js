@@ -7,8 +7,8 @@
 // @match        *://farm-us.centurygames.com/*
 // @match        *://farm.centurygames.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=centurygames.com
-// @updateURL    https://s.id/vonsh
-// @downloadURL  https://s.id/vonsh
+// @updateURL    https://s.id/BUSY_PARK
+// @downloadURL  https://s.id/BUSY_PARK
 // @grant        unsafeWindow
 // @run-at       document-end
 // ==/UserScript==
