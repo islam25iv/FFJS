@@ -6,7 +6,7 @@
 // @author       { islam abdalroof © }
 // @match        *://farm-us.centurygames.com/*
 // @match        *://farm.centurygames.com/*
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=centurygames.com
+// @icon         https://ffh5.akamaized.net/static/v3/resource/static/images/bp_farm_logo.png
 // @updateURL    https://s.id/BUSY_PARK
 // @downloadURL  https://s.id/BUSY_PARK
 // @grant        unsafeWindow
