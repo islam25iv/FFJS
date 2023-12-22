@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Auto_Pro
 // @namespace    https://fb.me/islam25iv
-// @version      1.3.1
+// @version      10.3.1
 // @description  🎁
 // @author       islam25iv
 // @match        *://*.centurygames.com/*
